@@ -1,4 +1,4 @@
 FlexBehave
 ==========
 
-Behave like BDD testing Framework for Actionscript/Flex
+Behave like BDD testing framework for Actionscript/Flex
