@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="automation" type="flex">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../apache/flex-sdk/out/production/flex-sdk/libs/automation" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../apache/flex-sdk/out/production/flex-sdk/libs/automation" recursive="false" />
+  </library>
+</component>
